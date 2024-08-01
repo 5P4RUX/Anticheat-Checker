@@ -33,7 +33,7 @@
 <br>
 <h4 align="left">TESTED ON > </h4><br>
 
-*GAME GUARDIAN
+* GAME GUARDIAN
 
 
 <br>
